@@ -35,7 +35,7 @@
   <br>
   <br>
   <h2>Programming</h2>
-  <p>This app was built using node.js and socket.io for the backend/creating the server and React-Native as the front-end framwork. Socket.io was used to create web-sockets that would allow for real-time chatting between users. A unique socket is associated with each user through a Redux action. Redux is also used to store and access state throughout the app. I used Expo in order to view and debug the app in both the browser view and the mobile simulator. </p> 
+  <p>This app was built using node.js and socket.io for the backend/creating the server and React-Native as the front-end framework. Socket.io was used to create web-sockets that would allow for real-time chatting between users. A unique socket is associated with each user through a Redux action. Redux is also used to store and access state throughout the app. I used Expo in order to view and debug the app in both the browser view and the mobile simulator. </p> 
  
     
 </body>

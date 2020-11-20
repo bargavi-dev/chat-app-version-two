@@ -20,16 +20,16 @@
   <br>
   
   <h3>Join Chat Screen</h3>
-  <img src="./assets/join-chat.png" alt="join-chat">
+   <img src="mobile/assets/join-chat.png" alt="join-chat">
   <br>
   <h3>Type in your username.</h3>
-  <img src="./assets/type-username.png" alt="type-username">
+ <img src="mobile/assets/friend-list.png" alt="friend-list">
   <br>
   <h3>View your friends list and select a friend to privately message.</h3>
-  <img src="./assets/friend-list.png" alt="friend-list">
+  <img src="mobile/assets/friend-list.png" alt="friend-list">
   <br>
   <h3>Enjoy your language exchange! :) </h3>
-  <img src="./assets/private-message.png" alt="private-message">
+  <img src="mobile/assets/private-message.png" alt="private-message">
   
   <br>
   <br>
